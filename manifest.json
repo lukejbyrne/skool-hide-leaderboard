@@ -3,7 +3,7 @@
   "name": "Skool – Hide Leaderboard",
   "version": "1.3",
   "description": "Hides the leaderboard on Skool.",
-  "permissions": ["activeTab", "declarativeContent", "storage"],
+  "permissions": ["declarativeContent", "storage"],
   "action": {
     "default_icon": {
       "48": "icon48.png",
